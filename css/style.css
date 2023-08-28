@@ -412,3 +412,10 @@ body{
     flex-direction: column;
     justify-content: center;
 }
+
+.burger{
+    font-size: 25px;
+    color: white;
+    display: none;
+    width: max-content;
+}
